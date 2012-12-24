@@ -1,4 +1,57 @@
-testing-class
-=============
+* testing-class
 
-testing-class
+
+This is the wiki for the sociological theory class.
+
+* Syllabus
+
+The [[Syllabus]] can be found here.
+
+** Assignments
+
+Each student should
+
+1. create an initial question that they want to research during the
+   class.
+
+   1. revise one other student's question
+
+2. write two theory descriptions
+
+   1. provide feedback on one other student's theory description.
+
+3. write one research paper on the micro section.
+
+   1. provide feedback on two other micro papers
+
+4. write one research paper on the macro section.
+
+   1. provide feedback on one other micro paper
+
+
+* Class Questions
+
+Everyone should have a question that they are interested in, or would
+like to answer using the theories discussed in the class. You can have
+one question for the micro part, and another question for the macro
+part, or the same if you want to. You should edit your question as you
+learn more about it and the theories.
+
+List your question below, in the following format
+
+** Micro
+
+[[Why is the world round?]]
+
+** Macro
+
+
+* Theory Descriptions
+
+Signup
+
+| theory | student |
+|--------+---------|
+|        |         |
+
+**
