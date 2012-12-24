@@ -9,6 +9,8 @@ The [[Syllabus]] can be found here.
 
 I should add some info here.
 
+There should be much more info here, really.
+
 ** Assignments
 
 Each student should
